@@ -1,16 +1,14 @@
-### Hi there 👋
+Welcome 👋🏽 My name is Claudia Sánchez-Beato Johnson
+==================================================
 
-<!--
-**csbjohnson/csbjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bioinformatics Analyst and Scientist
+------------------------------------
 
-Here are some ideas to get you started:
+"I'm a bioinformatics analyst and scientist at University of Maryland School of Medicine's Institute of Genome Sciences. I support the Disease Ontology, leveraging data analysis and biocuration to actively contribute to cutting-edge disease research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Washington DC
+*   🚀  I'm currently working on @diseaseontology (https://disease-ontology.org/)
+*   ✉️  You can contact me at [claudiasanchezbeatojohnson@gmail.com](mailto:claudiasanchezbeatojohnson@gmail.com)
+
+                 
+                  
