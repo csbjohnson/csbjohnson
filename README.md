@@ -3,13 +3,11 @@ Welcome 👋🏽 My name is Claudia Sánchez-Beato Johnson
 
 Bioinformatics Analyst and Scientist
 ------------------------------------
+🧬 I'm a scientist passionate about the intersection of technology and medicine.
 
-I'm a bioinformatics analyst and scientist at University of Maryland School of Medicine's Institute of Genome Sciences.
-I support the Disease Ontology, leveraging data analysis and biocuration to actively contribute to cutting-edge disease research.
+🚀 I'm currently working on the Disease Ontology (https://disease-ontology.org/)
 
-*   🌍  I'm based in Washington DC
-*   🚀  I'm currently working on the Disease Ontology (https://disease-ontology.org/)
-*   ✉️  You can contact me at [claudiasanchezbeatojohnson@gmail.com](mailto:claudiasanchezbeatojohnson@gmail.com)
+✉️  You can contact me at claudiasanchezbeatojohnson@gmail.com
 
-                 
+ 
                   
