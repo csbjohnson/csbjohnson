@@ -1,4 +1,4 @@
-Welcome 👋🏽💫 My name is Claudia Sánchez-Beato Johnson
+Welcome 💫 My name is Claudia Sánchez-Beato Johnson
 ==================================================
 
 🧬 I'm a scientist passionate about the intersection of technology and medicine.
